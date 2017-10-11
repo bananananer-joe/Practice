@@ -1,1 +1,6 @@
 #Find out how to find the squares of 2#
+x = 2
+
+while x <= 100000000000000:
+    print x
+    x *= 2
