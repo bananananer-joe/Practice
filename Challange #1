@@ -1,6 +1,7 @@
 #Find out how to find the squares of 2#
+
+#HOLY COW HI DAD I"M ON GITHUB!
+
 x = 2
 
-while x <= 100000000000000:
-    print x
-    x *= 2
+print
