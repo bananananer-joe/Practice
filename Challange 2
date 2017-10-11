@@ -9,3 +9,10 @@ xxxxxxx
 xxxxxxxx
 and so on
 //
+a = int(input(""))
+b = "x"
+print (b)
+while (a != 0):
+    a -= 1
+    b += "x"
+    print (b)
