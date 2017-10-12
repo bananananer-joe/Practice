@@ -1,0 +1,8 @@
+Make it so that all numbers below 21 in input say a
+all numbers above 634 say b
+all numbers that when multiplied by 2 are above 90 say c
+Any time imput is between 22 and 44 they say d
+35 says e
+if x = 0 then print f
+loop it
+make sure there is a b string thats equal to 9 + x and if it is more than 15 then print oh darn heck
