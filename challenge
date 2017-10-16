@@ -1,0 +1,9 @@
+What does:
+bob = int(input("HOW LONG YOU LITTLE BUGGER"))
+count = 1
+number = 0
+while count < bob:
+  print (number)
+  number = number + count
+  count = count + 1
+do
